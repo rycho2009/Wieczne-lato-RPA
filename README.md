@@ -4,7 +4,7 @@
 3) Extract content of repo to C:/res and RPAtool to C:/P, where <i>res</i> and <i>P</i> it's just a new created folders.<br>
 3,5) Remove README.md file.<br>
 4) Run CMD, and type "cd .."(from second type u can use arrow up and enter button), until you won't see "C:\>".<br>
-5) Run "cd P" and later "RPAExtractor -c archive.rpa ./=../res/".
+5) Run "cd P" and later "RPAExtractor -c archive.rpa ./=../res/".<br>
 6) In this moment yor CMD window could freeze, this operation takes few minutes.<br>
 7) When we see next comand pharse - the archive is ready, and we can move it to game folder and overwrite the original archive.rpa.<BR>
 YOU CAN ENJOY THE GAME!
@@ -16,7 +16,7 @@ YOU CAN ENJOY THE GAME!
 3) Wypakuj zawartość repozytorium do C:/res i oraz RPAtoola do C:/P, gdzie <i>res</i> i <i>P</i> to po prostu nowo utworzone foldery.<br>
 3,5) Usuń plik README.md.<br>
 4) Uruchom CMD, i wpisuj "cd .."(za drugim razem wystarczy klawisz strzałki w górę i enter), dopóki nie będzie wyświetlać napisu "C:\>".<br>
-5) Wpisz "cd P" oraz "RPAExtractor -c archive.rpa ./=../res/".
+5) Wpisz "cd P" oraz "RPAExtractor -c archive.rpa ./=../res/".<br>
 6) W tym momencie okno może się zwiesić i ta operacja może potrwać kilka minut.<br>
 7) Gdy pojawi nam się wiersz do wpisania następnej komendy archiwum jest gotowe - można je przenieść do katalogu gry i nadpisać oryginalne archive.rpa.<BR>
 MOŻNA CIESZYĆ SIĘ GRĄ!
